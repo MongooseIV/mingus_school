@@ -1,0 +1,36 @@
+body{
+    background: rgba(156, 155, 155, 0.49);
+    font-family: 'Aldrich', sans-serif;
+
+}
+
+h1{
+    border: 1px black solid;
+    text-align: center;
+}
+h2{
+    color: purple;
+}
+a{
+    color: red;
+}
+
+form{
+    font-size: 16;
+}
+
+#user_email{
+    border: 5px darkblue solid;
+}
+#user_pword{
+    border: 5px darkblue solid;
+}
+
+#log_in{
+    border: 5px darkblue solid;
+
+}
+
+#comment_field{
+    border: 5px grey solid;
+}
