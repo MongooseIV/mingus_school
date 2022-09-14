@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background-color: lightblue;
+}
+.p1{
+    border-style: solid;
+    background-color: rgb(165, 165, 237);
+}
+ul.author_ul{
+    display: inline-block;
+    text-align: left;
+}
+ol.resource_ol{
+    display: inline-block;
+    text-align: left;
+}
+.form{
+    border-style: solid;
+}
+.resources{
+    border-style: solid;
+    background-color:mediumseagreen;
+}
