@@ -34,3 +34,11 @@ form{
 #comment_field{
     border: 5px grey solid;
 }
+
+.col{
+    padding: 15px;
+    margin: 10px;
+    background-color: rgba(117, 213, 117, 0.642);
+}
+
+    
